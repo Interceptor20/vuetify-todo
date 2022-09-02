@@ -53,23 +53,23 @@
     name: 'Home',
     data() {
       return {
-        newTaskTitle: 'hello',
+        newTaskTitle: '',
         tasks: [
-          {
-            id: 1,
-            title: 'Wake Up',
-            done: false
-          },
-          {
-            id: 2,
-            title: 'Exercise',
-            done: false
-          },
-          {
-            id: 3,
-            title: 'Get groceries',
-            done: false
-          }
+          // {
+          //   id: 1,
+          //   title: 'Wake Up',
+          //   done: false
+          // },
+          // {
+          //   id: 2,
+          //   title: 'Exercise',
+          //   done: false
+          // },
+          // {
+          //   id: 3,
+          //   title: 'Get groceries',
+          //   done: false
+          // }
         ]
       }
     },
